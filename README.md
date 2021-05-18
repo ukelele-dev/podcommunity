@@ -1,22 +1,5 @@
 # ClubHouse Clone Template - Semana JS Expert 4.0
 
-Seja bem vindo(a) à quarta Semana Javascript Expert.Este é o código inicial para iniciar nossa jornada.
-
-Marque esse projeto com uma estrela 🌟
-
-## Preview
-
-### Página de Login
-
-<img src="https://github.com/ErickWendel/semanajsexpert-clubhouse-template/raw/main/assets/printscreen/clubhouse-login.PNG" width="300" alt="Login" />
-
-### Página de Salas
-
-<img src="https://github.com/ErickWendel/semanajsexpert-clubhouse-template/raw/main/assets/printscreen/clubhouse-home.PNG" width="300" alt="Home" />
-
-### Página de Sala
-
-<img src="https://github.com/ErickWendel/semanajsexpert-clubhouse-template/raw/main/assets/printscreen/clubhouse-room.PNG" width="300" alt="Room" />
 
 ## Checklist Features
 
@@ -55,3 +38,4 @@ Marque esse projeto com uma estrela 🌟
         - Ao ser aprovado
           - [ ] Reinicia todas as suas chamas ativas com os usuarios da sala
           - [ ] Recebe as permissões do perfil speaker
+# podcommunity
